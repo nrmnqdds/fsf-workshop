@@ -1,19 +1,6 @@
 import { Stack } from "expo-router";
-import colors from "tailwindcss/colors"
 
 // Import your global CSS file
-import "../styles/globals.css"
+import "../global.css";
 
-const Layout = () => {
-  return (
-    <Stack screenOptions={{
-      headerStyle: {
-        backgroundColor: colors.zinc[950]
-      }
-    }}
-    />
-  )
-}
-
-export default Layout
-
+export default Stack;

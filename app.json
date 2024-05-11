@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fsf-workshop",
-    "slug": "fsf-workshop",
+    "name": "my-mobile-project",
+    "slug": "my-mobile-project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
